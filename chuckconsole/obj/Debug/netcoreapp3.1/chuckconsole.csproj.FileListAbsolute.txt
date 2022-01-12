@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.exe
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.deps.json
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.runtimeconfig.json
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.dll
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\chuckconsole.pdb
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.AssemblyInfo.cs
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.dll
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.pdb
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.genruntimeconfig.cache
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\chuckconsole\chuckconsole\obj\Debug\netcoreapp3.1\chuckconsole.csproj.CopyComplete
